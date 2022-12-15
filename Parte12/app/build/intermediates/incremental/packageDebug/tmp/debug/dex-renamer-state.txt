@@ -1,0 +1,10 @@
+#Fri Dec 16 17:27:57 BRT 2022
+base.2=/home/beck/projects/trab-ihc/Parte12/app/build/intermediates/dex/debug/mergeProjectDexDebug/2/classes.dex
+path.2=2/classes.dex
+base.1=/home/beck/projects/trab-ihc/Parte12/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+path.1=0/classes.dex
+base.0=/home/beck/projects/trab-ihc/Parte12/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
